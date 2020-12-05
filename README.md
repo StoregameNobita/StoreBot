@@ -62,8 +62,8 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/StoregameNobita/Storebot
+> cd Storebot
 ```
 
 Install the dependencies:
